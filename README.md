@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0175-combine-two-tables) |
+| [0610-triangle-judgement](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0610-triangle-judgement) |
 ## Math
 |  |
 | ------- |
