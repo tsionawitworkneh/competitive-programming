@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0175-combine-two-tables) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
