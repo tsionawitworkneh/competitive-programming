@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0176-second-highest-salary) |
 | [0610-triangle-judgement](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0610-triangle-judgement) |
 | [1670-patients-with-a-condition](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1670-patients-with-a-condition) |
 ## Math
