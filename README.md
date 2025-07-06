@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
+| [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
