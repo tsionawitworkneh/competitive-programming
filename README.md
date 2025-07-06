@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
