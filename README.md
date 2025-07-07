@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0620-not-boring-movies) |
 | [1670-patients-with-a-condition](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1827-invalid-tweets) |
 ## Math
