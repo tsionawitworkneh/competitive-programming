@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0620-not-boring-movies) |
 | [1670-patients-with-a-condition](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1827-invalid-tweets) |
 | [2057-count-salary-categories](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2057-count-salary-categories) |
