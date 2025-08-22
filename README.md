@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
