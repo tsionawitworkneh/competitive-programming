@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0217-contains-duplicate) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
