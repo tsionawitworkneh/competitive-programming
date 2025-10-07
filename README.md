@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
