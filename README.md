@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
@@ -112,5 +114,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
