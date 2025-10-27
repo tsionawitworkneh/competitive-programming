@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0941-sort-array-by-parity) |
 | [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Trie
 |  |
 | ------- |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
