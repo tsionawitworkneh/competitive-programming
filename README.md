@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0367-valid-perfect-square) |
@@ -157,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
