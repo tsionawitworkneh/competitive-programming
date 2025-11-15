@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-reformat-department-table](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1301-reformat-department-table) |
 | [1390-average-selling-price](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1415-students-and-examinations) |
+| [1664-find-users-with-valid-e-mails](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1811-fix-names-in-a-table](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1811-fix-names-in-a-table) |
