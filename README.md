@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2057-count-salary-categories](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2057-count-salary-categories) |
 ## Math
 |  |
