@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2024-calculate-special-bonus](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2057-count-salary-categories) |
+| [3803-find-products-with-valid-serial-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Math
 |  |
 | ------- |
