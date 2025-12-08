@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-product-sales-analysis-iii](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1174-sales-analysis-iii) |
+| [1193-monthly-transactions-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1211-queries-quality-and-percentage) |
 | [1301-reformat-department-table](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1301-reformat-department-table) |
 | [1390-average-selling-price](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1390-average-selling-price) |
