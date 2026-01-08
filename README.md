@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1789-primary-department-for-each-employee](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1789-primary-department-for-each-employee) |
 | [1811-fix-names-in-a-table](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1837-daily-leads-and-partners) |
