@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -176,8 +178,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
