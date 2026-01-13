@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1965-employees-with-missing-information](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1965-employees-with-missing-information) |
 | [2024-calculate-special-bonus](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2057-count-salary-categories) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3803-find-products-with-valid-serial-numbers) |
