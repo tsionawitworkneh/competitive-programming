@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0088-merge-sorted-array) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
