@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
