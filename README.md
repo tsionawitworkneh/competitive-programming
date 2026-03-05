@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Simulation
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
+| [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
