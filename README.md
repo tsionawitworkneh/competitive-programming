@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
