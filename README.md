@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0941-sort-array-by-parity](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
