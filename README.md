@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0177-nth-highest-salary) |
@@ -40,8 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2057-count-salary-categories) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0069-sqrtx) |
@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0415-add-strings/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -71,26 +72,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1013-fibonacci-number) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
@@ -116,21 +117,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2491-smallest-even-multiple) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0169-majority-element) |
@@ -142,24 +143,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3024-type-of-triangle) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0415-add-strings/) | Easy |
 | [2048-build-array-from-permutation](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2048-build-array-from-permutation) |
 | [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
@@ -170,8 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0058-length-of-last-word) |
@@ -179,72 +181,73 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0504-base-7) |
 | [0709-to-lower-case](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0292-nim-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/1025-divisor-game) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsionawitworkneh/competitive-programming/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
