@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Stack
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/tsionawitworkneh/competitive-programming/tree/master/2974-minimum-number-game) |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
