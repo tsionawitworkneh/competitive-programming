@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0415-add-strings/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0492-construct-the-rectangle) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0415-add-strings/) | Easy |
 | [0504-base-7](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0504-base-7) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
