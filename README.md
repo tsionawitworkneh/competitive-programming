@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0342-power-of-four) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
