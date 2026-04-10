@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0136-single-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0374-guess-number-higher-or-lower/) | Easy |
