@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0217-contains-duplicate) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/tsionawitworkneh/competitive-programming/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tsionawitworkneh/competitive-programming/tree/master/0058-length-of-last-word) |
